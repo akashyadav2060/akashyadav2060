@@ -4,7 +4,7 @@ Welcome to my GitHub space! Here's where the code magic happens! ✨
 
 ## 🚀 About Me
 
-I'm Akash Yadav, a passionate coder and explorer based in Sydney. I breathe 💻 code and dream in algorithms. Outside the terminal, I love 🎸 playing guitar and ☕ sipping on a cup of tea.
+I'm Akash Yadav, a passionate coder and explorer based in Sydney. I normally breathe air but i also can 💻 code and dream in algorithms. Outside the terminal, I love 🎸 playing guitar and ☕ sipping on a cup of tea.
 
 ## 🌟 Projects
 
